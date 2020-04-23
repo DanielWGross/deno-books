@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "alwaysStrict": false,
+    "strict": false,
+    "noImplicitAny": false,
+    "resolveJsonModule": true,
+    "plugins": [{}],
+    "target": "esnext"
+  }
+}
